@@ -1,6 +1,8 @@
 # PyCheckPhish
 I wasn't able to find a python tool/lib for Checkphish, so I decided to make my own. 
 
+![Example](./example.png)
+
 ## References:
 - https://checkphish.ai/docs/checkphish-api/#api-introduction - API Documentation
 - https://checkphish.ai/checkphish-api/ - You'll need to sign up for a free API key minimally.
