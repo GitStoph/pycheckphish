@@ -1,6 +1,6 @@
 # PyCheckPhish
 I wasn't able to find a python tool/lib for Checkphish, so I decided to make my own. 
-
+Here's an example of script output, and the corresponding website screenshot that opens.
 ![Example](./example.png)
 
 ## References:
