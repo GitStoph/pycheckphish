@@ -2,8 +2,8 @@
 I wasn't able to find a python tool/lib for Checkphish, so I decided to make my own. 
 
 ## References:
-https://checkphish.ai/docs/checkphish-api/#api-introduction - API Documentation
-https://checkphish.ai/checkphish-api/ - You'll need to sign up for a free API key minimally.
+- https://checkphish.ai/docs/checkphish-api/#api-introduction - API Documentation
+- https://checkphish.ai/checkphish-api/ - You'll need to sign up for a free API key minimally.
 
 ## Installation:
 ```
